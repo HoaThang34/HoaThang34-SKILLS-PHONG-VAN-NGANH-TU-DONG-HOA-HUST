@@ -16,3 +16,4 @@ Kho tài liệu và kinh nghiệm phỏng vấn dành cho các bạn XTTN.
 6. [Câu hỏi khác & tình huống](./05-cau-hoi-khac.md)
 7. [Một số lưu ý quan trọng](./06-luu-y.md)
 8. [Thông tin cá nhân mẫu](./08-thong-tin-ca-nhan.md)
+9. [Luyện tập 13 câu hỏi phỏng vấn](./09-luyen-tap-13-cau-hoi.md)
