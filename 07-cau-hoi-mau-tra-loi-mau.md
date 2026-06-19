@@ -10,11 +10,15 @@ Dựa trên Phiếu đánh giá phỏng vấn ĐHBKHN 2021.
 
 > Em xin kính chào quý thầy cô trong Hội đồng tuyển sinh!
 >
-> Em tên là **Vũ Thành Nam**, học sinh lớp 12 Tin trường **THPT Chuyên Nguyễn Tất Thành, tỉnh Lào Cai**. Ngay từ khi còn học THCS, em đã bị cuốn hút bởi cách máy móc và hệ thống tự động có thể hỗ trợ con người trong sản xuất và đời sống — và niềm đam mê đó đã định hướng cho em suốt những năm tháng cấp ba.
+> Em tên là **Vũ Thành Nam**, em đến từ tỉnh Lào Cai và vừa qua em là học sinh lớp 12 Chuyên Tin trường THPT Chuyên Nguyễn Tất Thành. Hôm nay, em rất vinh dự khi có cơ hội được tham gia buổi phỏng vấn xét tuyển tài năng của nhà trường.
 >
-> Điểm mạnh nhất của em là tư duy logic, khả năng tự học và tinh thần trách nhiệm cao. Em từng tự nghiên cứu lập trình mạch Arduino và giành giải Nhất lập trình KCBot tại Ngày hội STEM cấp Tỉnh. Với vai trò thành viên nòng cốt của CLB CYB Technophile, em cùng đồng đội đã lọt vào Top 16 toàn quốc cuộc thi Vietnam Open Robotics Challenge 2023. Về điểm yếu, em là người khá cầu toàn — đôi khi dành quá nhiều thời gian để tối ưu một giải pháp dù chỉ là chi tiết nhỏ. Em đang học cách cân bằng giữa chất lượng và thời gian bằng cách đặt ra giới hạn cụ thể cho mỗi nhiệm vụ.
+> Về sở thích và thế mạnh, xuất phát là một học sinh chuyên Tin, em đặc biệt yêu thích tư duy toán học logic và các môn tự nhiên. Chính vì thế em có niềm đam mê với việc tìm hiểu cơ chế vận hành của các thiết bị điện tử và tự mày mò, nghiên cứu lập trình phần cứng với mạch Arduino và đạt được giải nhất lập trình KCbot cấp Tỉnh. Bên cạnh các giải thưởng Học sinh giỏi môn Tin học, trải nghiệm quý giá nhất của em là cùng CLB Robotics của trường lọt vào Top 16 toàn quốc tại Vietnam Open Robotics Challenge. Qua đó, em đã rèn luyện được năng lực tự học kiên trì, tư duy hệ thống và đặc biệt là tinh thần phối hợp đội nhóm trong một dự án kỹ thuật phức tạp.
 >
-> Đam mê lớn nhất của em là Kỹ thuật Điều khiển và Tự động hóa. Em tin rằng cuộc cách mạng công nghiệp 4.0 sẽ được dẫn dắt bởi những hệ thống tự động thông minh, và em muốn trở thành người kiến tạo nên những hệ thống đó. Em chọn chương trình **Tài năng Tự động hóa (EE2)** của ĐHBKHN vì đây là chương trình đào tạo kỹ sư tự động hóa hàng đầu cả nước, với giáo trình tiên tiến và giảng viên đầu ngành.
+> Tuy nhiên, em cũng có một vài điểm yếu như đôi khi quá cầu toàn và đòi hỏi sự chính xác ngay từ đầu. Điều này làm chậm tiến độ chung của toàn đội khi phải thử nghiệm liên tục. Và để khắc phục nó, em luôn chủ động lắng nghe ý kiến của đồng đội, phân chia giai đoạn công việc khoa học hơn để vừa đảm bảo chất lượng, vừa kịp tiến độ.
+>
+> Niềm đam mê với ngành Kỹ thuật Điều khiển và Tự động hóa của em được nhen nhóm từ rất sớm. May mắn có bố mẹ và ông bà làm trong ngành điện, tuổi thơ của em gắn liền với hình ảnh bố ngồi sửa các đồ điện gia dụng trong nhà. Và ấn tượng lớn nhất trong tuổi thơ em là những dịp được theo chân bố mẹ đi tham quan trung tâm điều khiển xa. Được tận mắt thấy hệ thống lưới điện được quản lý và thao tác từ xa, em hiểu được rằng Tự động hóa chính là xương sống hình thành nên thế giới công nghệ. Khát vọng được kế thừa truyền thống gia đình, được tự tay làm chủ và thiết kế những hệ thống thông minh ấy đã trở thành kim chỉ nam cho mọi nỗ lực học tập của em.
+>
+> Đối với em, Đại học Bách khoa Hà Nội chính là cái nôi đào tạo kỹ thuật hàng đầu, nơi có khát vọng, sự kỷ luật và môi trường học thuật khắt khe nhất. Em hiểu ngành Tự động hóa tại HUST đòi hỏi áp lực học tập cực kỳ lớn, nhưng em tin rằng với nền tảng đam mê được truyền cảm hứng từ gia đình, cùng tư duy tự học sẵn có, em sẽ vượt qua thử thách để biến những tò mò tuổi thơ thành kiến thức chuyên môn vững chắc, trở thành một kỹ sư tự động hóa có ích cho xã hội.
 >
 > Em xin trân trọng cảm ơn!
 
@@ -24,11 +28,15 @@ Dựa trên Phiếu đánh giá phỏng vấn ĐHBKHN 2021.
 
 **Bài mẫu:**
 
-> ĐHBKHN là trường đại học khoa học kỹ thuật hàng đầu Việt Nam với hơn 60 năm lịch sử, được xếp hạng trong nhóm các trường đại học kỹ thuật hàng đầu châu Á. Trường có nhiều ngành đào tạo đạt chuẩn kiểm định quốc tế AUN-QA, trong đó ngành Tự động hóa là một trong những ngành mũi nhọn.
+> Dạ thưa các thầy cô, đối với em và hầu hết các bạn học sinh khối tự nhiên, Đại học Bách khoa Hà Nội không chỉ là một ngôi trường, mà là một biểu tượng lớn.
 >
-> Về ngành Kỹ thuật Điều khiển - Tự động hóa, trường có đội ngũ giảng viên là những giáo sư, tiến sĩ đầu ngành, nhiều thầy cô tốt nghiệp từ các trường đại học danh tiếng trên thế giới. Cơ sở vật chất hiện đại với các phòng thí nghiệm điều khiển, robot, PLC và hệ thống nhúng đạt chuẩn. Chương trình Tài năng Tự động hóa được thiết kế đặc biệt để đào tạo những kỹ sư chất lượng cao, có khả năng nghiên cứu và làm việc trong môi trường quốc tế.
+> **Trước hết, về vị thế,** Bách khoa Hà Nội là trường đại học danh tiếng hàng đầu Việt Nam về khoa học kỹ thuật và công nghệ. Trường liên tục giữ thứ hạng cao trên các bảng xếp hạng quốc tế.
 >
-> Cơ hội phát triển sau khi tốt nghiệp là rất lớn. Sinh viên Tự động hóa Bách Khoa có thể làm việc tại các tập đoàn sản xuất hàng đầu như Samsung, Bosch, Siemens, hay các nhà máy thông minh trong nước. Tỷ lệ có việc làm sau tốt nghiệp của ngành này luôn đạt trên 95%. Đây chính là môi trường em mong muốn được học tập và phát triển.
+> **Thứ hai, về chương trình đào tạo:** Trường có hệ thống ngành học vô cùng đa dạng, trong đó Kỹ thuật Điều khiển và Tự động hóa là một trong những ngành mũi nhọn lâu đời nhất. Trường sở hữu hệ thống cơ sở vật chất hiện đại với các phòng thí nghiệm, trung tâm nghiên cứu đạt chuẩn. Đặc biệt, điều em ấn tượng nhất chính là đội ngũ giảng viên của trường — các thầy cô đều là những chuyên gia, giáo sư đầu ngành nhưng luôn tràn đầy nhiệt huyết và sẵn sàng truyền lửa cho sinh viên.
+>
+> **Cuối cùng, về cơ hội phát triển,** Bách khoa nổi tiếng là một môi trường rèn luyện giàu tính thách thức và áp lực học tập lớn. Nhưng em tin chính sự khắt khe đó sẽ rèn luyện cho sinh viên tinh thần kỷ luật cao, tư duy bền bỉ và khả năng chịu áp lực tuyệt vời. Bên cạnh đó, mạng lưới hợp tác doanh nghiệp sâu rộng của trường mang lại cơ hội học thuật thực chiến và đảm bảo đầu ra nghề nghiệp vô cùng rộng mở cho sinh viên ngay sau khi tốt nghiệp.
+>
+> Em xin hết ạ!
 
 ---
 
@@ -36,19 +44,19 @@ Dựa trên Phiếu đánh giá phỏng vấn ĐHBKHN 2021.
 
 **Bài mẫu (Vũ Thành Nam - EE2 Kỹ thuật Điều khiển - Tự động hóa):**
 
-> Em xin phép trình bày 5 lý do em quyết định chọn chương trình Tài năng Tự động hóa (EE2) của ĐHBKHN.
+> Kính thưa các thầy cô trong Hội đồng tuyển sinh. Để trả lời cho câu hỏi lý do tại sao em lựa chọn chương trình Kỹ thuật Điều khiển và Tự động hóa (EE2) tại Đại học Bách khoa Hà Nội, em đã cân nhắc rất kỹ lưỡng dựa trên 5 yếu tố cốt lõi sau đây:
 >
-> **Thứ nhất, sự phù hợp với năng lực bản thân.** Em có thế mạnh về Toán, Vật lý và Tin học — đây là nền tảng cốt lõi của kỹ thuật điều khiển và tự động hóa. Em từng tham gia cuộc thi Vietnam Open Robotics Challenge 2023 và đạt Top 16 toàn quốc cùng CLB CYB Technophile — chính trải nghiệm chế tạo robot đó đã cho em thấy mình thực sự đam mê lĩnh vực này.
+> **Đầu tiên,** Là một học sinh lớp chuyên Tin, em có lợi thế về tư duy Toán học, tư duy giải thuật và lập trình logic. Tuy nhiên, em không muốn những dòng code của mình chỉ nằm trên màn hình máy tính, mà em muốn nhìn thấy chúng vận hành ngoài đời thực. Tư duy kỹ thuật của em đã được kiểm chứng qua việc tự nghiên cứu lập trình phần cứng mạch Arduino, đạt giải Nhất lập trình robot KCBot cấp Tỉnh và cùng đồng đội lọt vào Top 16 toàn quốc cuộc thi Vietnam Open Robotics Challenge. Ngành Tự động hóa chính là giao điểm hoàn hảo giúp em kết hợp thế mạnh phần mềm của chuyên Tin và niềm đam mê phần cứng, hệ thống cơ khí thông minh.
 >
-> **Thứ hai, tính ưu việt của chương trình Tài năng.** Chương trình EE2 là chương trình đào tạo chất lượng cao, được giảng dạy bằng tiếng Anh với giáo trình cập nhật từ các đại học hàng đầu thế giới. Sinh viên được học tập trong môi trường nghiên cứu, thực hành nhiều, có cơ hội tiếp cận các phòng thí nghiệm hiện đại về PLC, robot và hệ thống nhúng ngay từ năm thứ hai. Chương trình có sự hợp tác chặt chẽ với các doanh nghiệp như Bosch, Siemens.
+> **Thứ hai, về tính ưu việt và thế mạnh của chương trình đào tạo:** Qua tìm hiểu khung chương trình EE2 của Bách khoa, em thấy cấu trúc môn học rất hiện đại, cập nhật liên tục và bắt kịp xu hướng toàn cầu với các mảng về hệ thống công nghiệp, đo lường, AI trong điều khiển,... Chương trình không chỉ nặng về lý thuyết hàn lâm mà cực kỳ chú trọng vào kỹ năng thực hành thông qua hệ thống các phòng thí nghiệm, xưởng thực hành hiện đại đạt chuẩn quốc tế. Đây chính là môi trường lý tưởng để một người thích tìm tòi, sáng tạo như em được thỏa sức thử nghiệm và phát triển.
 >
-> **Thứ ba, khả năng phát triển nghề nghiệp.** Ngành Tự động hóa đang có nhu cầu nhân lực rất cao trong bối cảnh nhà máy thông minh và sản xuất tự động hóa bùng nổ. Tỷ lệ có việc làm sau tốt nghiệp của ngành Tự động hóa Bách Khoa đạt trên 95%. Em mong muốn sau khi tốt nghiệp có thể làm việc tại các tập đoàn sản xuất lớn, góp phần tự động hóa nền sản xuất Việt Nam.
+> **Thứ ba, về đội ngũ giảng viên tham gia giảng dạy:** Một trong những lý do lớn nhất thôi thúc em nộp hồ sơ vào HUST chính là các thầy cô. Khoa Tự động hóa của trường sở hữu đội ngũ giảng viên là những giáo sư, phó giáo sư, tiến sĩ đầu ngành tại Việt Nam. Các thầy cô không chỉ có kiến thức uyên bác được đào tạo từ các quốc gia tiên tiến, mà còn có rất nhiều dự án nghiên cứu thực chiến với các tập đoàn lớn. Được học tập và nhận sự dẫn dắt từ những người thầy xuất sắc như vậy là một đặc ân lớn giúp em định hình tư duy và tác phong làm việc chuyên nghiệp.
 >
-> **Thứ tư, đội ngũ giảng viên.** Em đã tìm hiểu kỹ và biết rằng chương trình có sự tham gia giảng dạy của các giáo sư, tiến sĩ hàng đầu trong lĩnh vực điều khiển và tự động hóa. Nhiều thầy cô có kinh nghiệm nghiên cứu và giảng dạy tại nước ngoài. Em tin rằng được học dưới sự dẫn dắt của các thầy cô là cơ hội vô giá.
+> **Thứ tư, về khả năng phát triển nghề nghiệp sau khi tốt nghiệp:** Đất nước ta đang bước vào kỷ nguyên số, đẩy mạnh công nghiệp hóa, hiện đại hóa. Tự động hóa chính là xương sống của các nhà máy thông minh, các dây chuyền sản xuất hiện đại. Mục tiêu dài hạn của em là trở thành một kỹ sư giỏi, có khả năng thiết kế và tối ưu hóa các hệ thống điều khiển tự động. Uy tín của tấm bằng Bách khoa cùng mạng lưới cựu sinh viên rộng khắp cả nước chính là tấm vé thông hành vững chắc nhất giúp em tiếp cận các cơ hội việc làm lớn tại các tập đoàn đa quốc gia và các viện nghiên cứu lớn ngay sau khi ra trường.
 >
-> **Thứ năm, học phí phù hợp.** Mức học phí của chương trình Tài năng là hợp lý so với chất lượng đào tạo và cơ hội mang lại. Gia đình em đã tính toán và hoàn toàn ủng hộ quyết định này. Em cũng đặt mục tiêu đạt học bổng khuyến khích học tập để giảm gánh nặng cho gia đình.
+> **Thứ năm, về mức học phí phù hợp với điều kiện gia đình:** Cuối cùng, một yếu tố rất thực tế là học phí của chương trình hoàn toàn phù hợp với điều kiện kinh tế của gia đình em. Bố mẹ và ông bà em đều làm việc trong ngành điện, hiểu rất rõ giá trị của việc đầu tư giáo dục kỹ thuật tại Bách khoa. Gia đình hoàn toàn ủng hộ, sẵn sàng tạo mọi điều kiện tốt nhất cả về tài chính lẫn tinh thần để em yên tâm học tập suốt 5 năm đại học mà không gặp bất kỳ áp lực nào.
 >
-> Với 5 lý do trên, em tin rằng chương trình Tài năng Tự động hóa ĐHBKHN là lựa chọn đúng đắn và phù hợp nhất cho tương lai của em.
+> Tổng hợp 5 lý do trên, em tin rằng chương trình EE2 của Đại học Bách khoa Hà Nội chính là mảnh ghép hoàn hảo nhất cho năng lực, đam mê và tương lai của em. Em xin chân thành cảm ơn các thầy cô.
 
 ---
 
@@ -56,15 +64,13 @@ Dựa trên Phiếu đánh giá phỏng vấn ĐHBKHN 2021.
 
 **Bài mẫu:**
 
-> Nếu được xét tuyển vào chương trình, kế hoạch của em rất cụ thể:
+> Kính thưa các thầy cô, nếu được vinh dự trở thành sinh viên ngành Kỹ thuật Điều khiển - Tự động hóa của trường, em đã xây dựng cho mình một lộ trình phát triển rõ ràng trong 5 năm tới như sau:
 >
-> **Về học tập:** Em đặt mục tiêu tốt nghiệp loại Giỏi đúng hạn. Trong 2 năm đầu, em sẽ tập trung xây dựng nền tảng vững chắc về toán, vật lý và kỹ thuật điều khiển, duy trì GPA từ 3.2/4.0. Sang năm 3, em muốn tham gia một phòng thí nghiệm nghiên cứu để bắt đầu làm quen với nghiên cứu khoa học. Năm 4, em dành học kỳ cuối cho thực tập tại doanh nghiệp và hoàn thành đồ án tốt nghiệp. Em cũng quan tâm đến chương trình học song bằng hoặc học trước một số tín chỉ để có thêm thời gian cho nghiên cứu.
+> Mục tiêu lớn nhất của em là tốt nghiệp đúng thời hạn với tấm bằng Loại Giỏi trở lên. Trong 2 năm đầu, em sẽ tập trung học các môn đại cương và cơ sở ngành. Từ năm thứ 3, em đặt mục tiêu xin tham gia vào phòng Lab của Khoa để sớm tiếp cận với các dự án thực tế về Kỹ thuật điều khiển, robot thông minh. Bên cạnh đó, em sẽ hoàn thành chuẩn đầu ra tiếng Anh trong năm nhất hoặc hai với mục tiêu IELTS 6.5. Song song với đó, em sẽ gia nhập các CLB trường như BK-Robotics để rèn luyện tư duy thực chiến, đồng thời tích cực tham gia vào các hoạt động tình nguyện, chiến dịch Mùa hè xanh của Đoàn Thanh niên để phát triển kỹ năng giao tiếp và làm việc nhóm.
 >
-> **Về kỹ năng mềm:** Em đặt mục tiêu đạt IELTS 6.5 trước năm hai và 7.0 trước năm ba. Em sẽ tham gia CLB Robot của trường để tiếp tục phát triển kỹ năng chế tạo robot thực tế — đó là môi trường tuyệt vời để áp dụng kiến thức tự động hóa. Em cũng duy trì tham gia các hoạt động tình nguyện, bởi em tin một kỹ sư giỏi cần có trách nhiệm với xã hội.
+> Cuối cùng về kế hoạch tài chính và định hướng tương lai: Về mặt tài chính, em sẽ nỗ lực học tập để giành học bổng khuyến khích của trường nhằm tối ưu chi phí cho ba mẹ. Từ năm thứ 4, em dự định sẽ tìm kiếm cơ hội làm thêm dưới hình thức thực tập sinh tại các doanh nghiệp đối tác của Bách khoa để vừa có thêm thu nhập, vừa tích lũy kinh nghiệm. Đặc biệt, vì niềm đam mê lớn với công nghệ điều khiển, mục tiêu dài hạn của em sau khi tốt nghiệp kỹ sư là tiếp tục học lên bậc Thạc sĩ tại trường để đi sâu vào mảng nghiên cứu và phát triển chuyên sâu.
 >
-> **Về tài chính:** Gia đình em đã chuẩn bị cho việc học của em, nhưng em muốn tự chủ một phần. Từ năm thứ hai, em dự định làm thêm các dự án freelance về lập trình vi điều khiển hoặc thiết kế mạch — vừa tích lũy kinh nghiệm vừa có thêm thu nhập. Sau tốt nghiệp, em muốn làm việc 2-3 năm để tích lũy kinh nghiệm thực tế, sau đó học tiếp lên Thạc sĩ để chuyên sâu hơn trong lĩnh vực Tự động hóa.
->
-> Em tin rằng với kế hoạch cụ thể này, em sẽ tận dụng tối đa cơ hội học tập tại Bách Khoa.
+> Với một kế hoạch nghiêm túc và cụ thể, em tin mình đã sẵn sàng cho hành trình sắp tới tại Bách khoa. Em xin cảm ơn các thầy cô.
 
 ---
 
@@ -72,11 +78,15 @@ Dựa trên Phiếu đánh giá phỏng vấn ĐHBKHN 2021.
 
 **Bài mẫu (Vũ Thành Nam):**
 
-> Thành tích đáng tự hào nhất của em là đạt **Top 16 toàn quốc cuộc thi Vietnam Open Robotics Challenge 2023** cùng CLB CYB Technophile, cùng với đó là **giải Nhất lập trình KCBot tại Ngày hội STEM cấp Tỉnh** — cũng chính từ dự án robot tự hành đầu tay của em.
+> Kính thưa các thầy cô trong Hội đồng tuyển sinh, trong suốt 3 năm học THPT, thành tích mà em cảm thấy tự hào nhất chính là **Giải Khuyến khích trong Kỳ thi chọn Học sinh giỏi cấp Quốc gia môn Tin học năm học 2025 - 2026**.
 >
-> Em tự hào về những thành tích này không chỉ vì kết quả, mà vì hành trình thực hiện nó. Khi mới bắt đầu, em gần như chưa biết gì về Arduino hay mạch điều khiển robot. Em đã tự tìm tòi tài liệu tiếng Anh trên mạng, xem video hướng dẫn, thử nghiệm hết lần này đến lần khác. Có những đêm em ngồi hàn mạch đến 1-2 giờ sáng, có lần em làm cháy cả board mạch vì cắm nhầm chân — nhưng em không bỏ cuộc. Sau 3 tháng, robot của em đã có thể tự động di chuyển, nhận diện vật cản và hoàn thành đường đua.
+> Đối với em, lý do lớn nhất khiến em tự hào về thành tích này không chỉ nằm ở giá trị của giải thưởng, mà là ở hành trình em đã vượt qua để chạm tay vào nó. Giải thưởng này là kết quả của hàng ngàn giờ miệt mài bên bàn máy tính, đối mặt với hàng trăm thuật toán phức tạp và những lần bài làm nhận kết quả 'Wrong Answer' trên các hệ thống chấm online. Quá trình đó đã rèn luyện cho em một tinh thần kỷ luật thép, khả năng tự học bền bỉ và tư duy phân tích hệ thống cực kỳ khắt khe — những phẩm chất mà em biết là vô cùng cần thiết đối với một sinh viên Bách khoa.
 >
-> Những trải nghiệm này liên quan trực tiếp đến ngành Kỹ thuật Điều khiển - Tự động hóa mà em đăng ký. Đó chính là một bài toán tự động hóa hoàn chỉnh: cảm biến thu thập dữ liệu → bộ điều khiển xử lý → cơ cấu chấp hành hành động. Chính những dự án này đã khẳng định em thực sự đam mê lĩnh vực tự động hóa. Em muốn phát triển xa hơn nữa tại Bách Khoa — để từ robot đơn giản, em có thể tiến tới những hệ thống lớn hơn: những nhà máy thông minh, những dây chuyền sản xuất tự động.
+> Thành tích này có mối liên hệ hữu cơ và logic tuyệt đối với ngành Kỹ thuật Điều khiển và Tự động hóa mà em đang đăng ký.
+>
+> Nhiều người thường nghĩ Tự động hóa chỉ là cơ khí và mạch điện tử, nhưng qua tìm hiểu, em hiểu rằng linh hồn của Tự động hóa hiện đại chính là phần mềm và giải thuật thông minh. Một cánh tay robot hay một dây chuyền sản xuất không thể vận hành linh hoạt nếu thiếu đi các thuật toán điều khiển tối ưu, xử lý dữ liệu cảm biến theo thời gian thực. Nền tảng tư duy giải thuật vững chắc từ kỳ thi Quốc gia Tin học chính là bệ phóng giúp em dễ dàng làm chủ các ngôn ngữ lập trình nhúng hay ứng dụng trí tuệ nhân tạo vào công nghiệp.
+>
+> Em tin rằng, một học sinh đã vượt qua áp lực của kỳ thi Quốc gia để khẳng định năng lực bản thân sẽ hoàn toàn có đủ bản lĩnh để đối mặt với môi trường học thuật khắc nghiệt tại HUST, biến những thuật toán trên trang giấy thành các giải pháp tự động hóa có giá trị thực tiễn cho xã hội. Em xin chân thành cảm ơn các thầy cô.
 
 ---
 

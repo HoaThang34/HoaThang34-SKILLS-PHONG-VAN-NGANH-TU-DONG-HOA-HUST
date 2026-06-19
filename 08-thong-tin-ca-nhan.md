@@ -72,11 +72,11 @@
 
 ## Câu chuyện cá nhân (dùng trong phỏng vấn)
 
-**Thành tích đáng tự hào nhất (kể theo STAR):**
-- Situation (Bối cảnh): ..................................................................................
-- Task (Nhiệm vụ): ..................................................................................
-- Action (Hành động): ..................................................................................
-- Result (Kết quả): ..................................................................................
+**Thành tích đáng tự hào nhất (kể theo STAR):** (Xem bài mẫu Câu 5 trong [07-cau-hoi-mau-tra-loi-mau.md](./07-cau-hoi-mau-tra-loi-mau.md))
+- Situation (Bối cảnh): Tham gia kỳ thi chọn HSG Quốc gia môn Tin học năm 2025-2026
+- Task (Nhiệm vụ): Giải quyết các bài toán thuật toán phức tạp, cạnh tranh với thí sinh toàn quốc
+- Action (Hành động): Tự học hàng ngàn giờ, giải hàng trăm bài toán trên các hệ thống chấm online, vượt qua áp lực thi cử
+- Result (Kết quả): Đạt Giải Khuyến khích cấp Quốc gia - thành tích cao nhất trong 3 năm THPT
 
 **Kỷ niệm/chuyên đề có thể kể:**
 1. ..................................................................................................
@@ -131,6 +131,11 @@
 - **Định hướng:** Kỹ sư Tự động hóa, nghiên cứu & phát triển công nghệ thông minh
 
 ### Câu chuyện cá nhân
+
+**Giải Khuyến khích HSG Quốc gia môn Tin học 2025-2026:**
+- Thành tích tự hào nhất, là kết quả của hàng ngàn giờ tự học thuật toán
+- Rèn luyện tinh thần kỷ luật thép, tư duy phân tích hệ thống
+- Liên hệ: nền tảng giải thuật là bệ phóng cho lập trình nhúng và AI trong tự động hóa
 
 **Dự án Hệ thống tưới cây thông minh bằng Arduino:**
 - Xuất phát từ nhu cầu thực tế (giúp ông tưới vườn)
